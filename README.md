@@ -18,3 +18,4 @@ People now really love watching movie on internet. Some people have specific aim
 They might have favorite actors/actress, but they don’t really know what movies they play, and sometimes people just want to watch special genre like action/comedy. So we build the database of movies, and people could search by genre/actors/title. The database will help people find some related movies. It helps people to make a better choice.
 
 **more detials**
+https://github.com/ZHIHUIXIN/popeyesgirls/blob/master/INFO%20project/INFO%206210%20movie%20database%20report%20yuruli%20zhihuixin.pdf
